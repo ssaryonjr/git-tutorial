@@ -1,3 +1,3 @@
 function example() {
-  return 'SAM SARYON';
+  return 'SARYON SAM';
 }
